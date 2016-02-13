@@ -232,29 +232,30 @@ function create_config( )
     "id",
     "tagall"
     },
-    sudo_users = {122774063},--Sudo users
+    sudo_users = {122779013},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V2 Beta
-    An Advanced Anti Spam Bot Forked On TeleSeed
+    An Advanced Anti Spam Bot Forked On InfinityTG
     
     Develpoed By:
-    @Mr_Ah_S
+    @King_scorpion
     Manager:
-    @amiirdada
+    @ha7_khat
     Founder:
-    @AmirQuick
+    @mamad_mokafat
     
     Special Thank To:
-    Mehr Pouya
-    Arman
-    IM/-\N
-    Creed Is Dead
+    Alireza karimi
+    Vahid
+    Mehr...
+    Teleseed
+    Ssbs team
     
-    Powered By @Sbss_Team
+    Powered By @King_scorpion
     
     #Open Source
-    https://github.com/SbssTeam/Sbss
+    https://github.com/infinityTG/INFINITYTGAM
 ]],
     help_text_realm = [[
 See Patterns In Github
@@ -332,7 +333,7 @@ __________________________
 —---------------------—
 نیاز نیست از '!' و '/' استفاده کنید*
 _______________________________
-Writed by SBSS Team
+Writed by Infinity Team
 ]]
   }
   serialize_to_file(config, './data/config.lua')
